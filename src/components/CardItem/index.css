@@ -1,0 +1,59 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  border-radius: 20px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 30px;
+  width: 400px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  border-radius: 20px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 30px;
+  width: 400px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  border-radius: 20px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 30px;
+  width: 400px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  border-radius: 20px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 30px;
+  width: 400px;
+}
+
+/* Write CSS code here. */
+
+.img {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.sub-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 10px;
+}
